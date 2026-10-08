@@ -1,0 +1,44 @@
+{
+  "arxiv_query": "(abs:retail OR abs:e-commerce OR abs:\"recommender system\" OR abs:\"demand forecasting\") AND (abs:\"machine learning\" OR abs:\"language model\" OR abs:\"deep learning\")",
+  "arxiv_max": 8,
+  "repos_per_section": 6,
+  "since_days": 365,
+  "code_sections": [
+    {
+      "key": "AI",
+      "queries": [
+        "ecommerce llm",
+        "retail llm",
+        "shopping agent"
+      ]
+    },
+    {
+      "key": "ML",
+      "queries": [
+        "recommender system",
+        "demand forecasting"
+      ]
+    },
+    {
+      "key": "DS",
+      "queries": [
+        "retail data science",
+        "ecommerce data science"
+      ]
+    },
+    {
+      "key": "DA",
+      "queries": [
+        "sales analytics dashboard",
+        "customer analytics"
+      ]
+    },
+    {
+      "key": "DAN",
+      "queries": [
+        "retail sales analysis",
+        "ecommerce data analysis"
+      ]
+    }
+  ]
+}
