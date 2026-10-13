@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **recommendations, demand
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-12 04:50 UTC_
+_Last refreshed: 2026-10-13 04:45 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -39,12 +39,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [Nixtla/nixtla](https://github.com/Nixtla/nixtla) | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transfor | Jupyter Notebook | 4,020 | 2026-10-12 |
-| [cirosantilli/china-dictatorship](https://github.com/cirosantilli/china-dictatorship) | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家 | HTML | 3,257 | 2026-02-05 |
-| [anthropics/commerce-agents](https://github.com/anthropics/commerce-agents) | Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included | Python | 3,216 | 2026-10-02 |
-| [filtalgo/Filtmall-Shopping-Skill](https://github.com/filtalgo/Filtmall-Shopping-Skill) | Agent-native shopping for extreme value: verifiable same-product price evidence, checkout, orders, delivery, and after-sales. | JavaScript | 1,856 | 2026-09-17 |
-| [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online selle | Python | 1,126 | 2026-08-26 |
-| [ru-yee/Life-Agent-RU-YEE](https://github.com/ru-yee/Life-Agent-RU-YEE) | Life Agent RU YEE — An AI-powered life management agent that autonomously handles daily routines including meal planning, grocery shopping,  | Python | 799 | 2026-03-27 |
+| [Nixtla/nixtla](https://github.com/Nixtla/nixtla) | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transfor | Jupyter Notebook | 4,022 | 2026-10-12 |
+| [cirosantilli/china-dictatorship](https://github.com/cirosantilli/china-dictatorship) | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家 | HTML | 3,260 | 2026-02-05 |
+| [anthropics/commerce-agents](https://github.com/anthropics/commerce-agents) | Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included | Python | 3,223 | 2026-10-02 |
+| [filtalgo/Filtmall-Shopping-Skill](https://github.com/filtalgo/Filtmall-Shopping-Skill) | Agent-native shopping for extreme value: verifiable same-product price evidence, checkout, orders, delivery, and after-sales. | JavaScript | 1,178 | 2026-09-17 |
+| [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online selle | Python | 1,130 | 2026-08-26 |
+| [ru-yee/Life-Agent-RU-YEE](https://github.com/ru-yee/Life-Agent-RU-YEE) | Life Agent RU YEE — An AI-powered life management agent that autonomously handles daily routines including meal planning, grocery shopping,  | Python | 800 | 2026-03-27 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -53,7 +53,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- ML:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) | Best Practices on Recommendation Systems | Python | 21,939 | 2026-10-11 |
+| [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) | Best Practices on Recommendation Systems | Python | 21,945 | 2026-10-12 |
 | [gorse-io/gorse](https://github.com/gorse-io/gorse) | AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding | Go | 9,872 | 2026-10-10 |
 | [NicolasHug/Surprise](https://github.com/NicolasHug/Surprise) | A Python scikit for building and analyzing recommender systems | Python | 6,818 | 2026-05-30 |
 | [hongleizhang/RSPapers](https://github.com/hongleizhang/RSPapers) | RSTutorials: A Curated List of Must-read Papers on Recommender System. |  | 6,519 | 2026-03-12 |
@@ -81,12 +81,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DA:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [snowplow/snowplow](https://github.com/snowplow/snowplow) | The leader in Customer Data Infrastructure | Scala | 7,036 | 2026-06-26 |
+| [snowplow/snowplow](https://github.com/snowplow/snowplow) | The leader in Customer Data Infrastructure | Scala | 7,037 | 2026-06-26 |
 | [Countly/countly-server](https://github.com/Countly/countly-server) | Countly is a privacy-first, AI-powered analytics and engagement platform for understanding and optimizing customer journeys across digital a | JavaScript | 5,914 | 2026-10-12 |
-| [talivia-group/talivia](https://github.com/talivia-group/talivia) | Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue inte | TypeScript | 2,376 | 2026-09-26 |
-| [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | Python toolkit, MCP server, and agent skills for reproducible, auditable clickstream and event log analytics. Helps AI agents, data scientis | Python | 930 | 2026-10-11 |
-| [amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI](https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI) | Complete Data Analytics Portfolio Project with end-to-end industry standard Data Analysis of Customer Shopping Trends from Retail Data using | Jupyter Notebook | 300 | 2025-10-15 |
-| [awslabs/aws-security-analytics-bootstrap](https://github.com/awslabs/aws-security-analytics-bootstrap) | AWS Security Analytics Bootstrap enables customers to perform security investigations on AWS service logs by providing an Amazon Athena anal |  | 283 | 2026-10-11 |
+| [talivia-group/talivia](https://github.com/talivia-group/talivia) | Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue inte | TypeScript | 2,377 | 2026-09-26 |
+| [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | Python toolkit, MCP server, and agent skills for reproducible, auditable clickstream and event log analytics. Helps AI agents, data scientis | Python | 931 | 2026-10-12 |
+| [amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI](https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI) | Complete Data Analytics Portfolio Project with end-to-end industry standard Data Analysis of Customer Shopping Trends from Retail Data using | Jupyter Notebook | 301 | 2025-10-15 |
+| [awslabs/aws-security-analytics-bootstrap](https://github.com/awslabs/aws-security-analytics-bootstrap) | AWS Security Analytics Bootstrap enables customers to perform security investigations on AWS service logs by providing an Amazon Athena anal |  | 283 | 2026-10-12 |
 <!-- DA:END -->
 
 ## 📈 Latest data analysis projects
@@ -95,10 +95,10 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DAN:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [MahbubNibir/power-bi-retail-analytics-viz](https://github.com/MahbubNibir/power-bi-retail-analytics-viz) | Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis | HTML | 119 | 2026-10-12 |
-| [dchainapp2021/cosmetics-retail-finance-optimizer](https://github.com/dchainapp2021/cosmetics-retail-finance-optimizer) | Power BI Cosmetics Revenue Analytics Dashboard 2026: Sales Quality & Asset Performance | HTML | 117 | 2026-10-12 |
+| [MahbubNibir/power-bi-retail-analytics-viz](https://github.com/MahbubNibir/power-bi-retail-analytics-viz) | Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis | HTML | 119 | 2026-10-13 |
+| [dchainapp2021/cosmetics-retail-finance-optimizer](https://github.com/dchainapp2021/cosmetics-retail-finance-optimizer) | Power BI Cosmetics Revenue Analytics Dashboard 2026: Sales Quality & Asset Performance | HTML | 117 | 2026-10-13 |
 | [luminati-io/eCommerce-dataset-samples](https://github.com/luminati-io/eCommerce-dataset-samples) | A collection of multiple e-commerce dataset samples. Each sample contains over 1,000 records. These datasets are ideal for product trend ana |  | 90 | 2026-02-10 |
-| [coupler-io/skills](https://github.com/coupler-io/skills) | AI agent skills for marketing, sales, finance, ecommerce, PPC, and reporting analysis with live Coupler.io data. | JavaScript | 37 | 2026-10-08 |
+| [coupler-io/skills](https://github.com/coupler-io/skills) | AI agent skills for marketing, sales, finance, ecommerce, PPC, and reporting analysis with live Coupler.io data. | JavaScript | 37 | 2026-10-12 |
 | [mithra3003/ECommerce-Sales-Analysis](https://github.com/mithra3003/ECommerce-Sales-Analysis) | This project explores e-commerce sales data using Python. It focuses on identifying top products, analyzing monthly sales patterns, and unde | Python | 26 | 2026-03-30 |
 | [abhay01-kumar/warehouse-vs-retail-sales-analysis](https://github.com/abhay01-kumar/warehouse-vs-retail-sales-analysis) |  | Python | 19 | 2026-02-13 |
 <!-- DAN:END -->
