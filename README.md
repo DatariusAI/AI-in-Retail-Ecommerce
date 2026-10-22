@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **recommendations, demand
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-21 04:37 UTC_
+_Last refreshed: 2026-10-22 04:37 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -39,12 +39,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [Nixtla/nixtla](https://github.com/Nixtla/nixtla) | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transfor | Jupyter Notebook | 4,031 | 2026-10-15 |
-| [anthropics/commerce-agents](https://github.com/anthropics/commerce-agents) | Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included | Python | 3,289 | 2026-10-19 |
-| [cirosantilli/china-dictatorship](https://github.com/cirosantilli/china-dictatorship) | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家 | HTML | 3,283 | 2026-02-05 |
-| [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online selle | Python | 1,206 | 2026-08-26 |
-| [filtalgo/Filtmall-Shopping-Skill](https://github.com/filtalgo/Filtmall-Shopping-Skill) | Agent-native shopping for extreme value: verifiable same-product price evidence, checkout, orders, delivery, and after-sales. | JavaScript | 931 | 2026-09-17 |
+| [Nixtla/nixtla](https://github.com/Nixtla/nixtla) | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transfor | Jupyter Notebook | 4,032 | 2026-10-21 |
+| [anthropics/commerce-agents](https://github.com/anthropics/commerce-agents) | Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included | Python | 3,300 | 2026-10-19 |
+| [cirosantilli/china-dictatorship](https://github.com/cirosantilli/china-dictatorship) | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家 | HTML | 3,285 | 2026-02-05 |
+| [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online selle | Python | 1,217 | 2026-08-26 |
 | [ru-yee/Life-Agent-RU-YEE](https://github.com/ru-yee/Life-Agent-RU-YEE) | Life Agent RU YEE — An AI-powered life management agent that autonomously handles daily routines including meal planning, grocery shopping,  | Python | 793 | 2026-03-27 |
+| [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) | MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 517 ready-made connectors (SAP, ERP, e-commerce)  | TypeScript | 775 | 2026-10-21 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -53,8 +53,8 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- ML:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) | Best Practices on Recommendation Systems | Python | 21,959 | 2026-10-19 |
-| [gorse-io/gorse](https://github.com/gorse-io/gorse) | AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding | Go | 9,883 | 2026-10-18 |
+| [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) | Best Practices on Recommendation Systems | Python | 21,959 | 2026-10-21 |
+| [gorse-io/gorse](https://github.com/gorse-io/gorse) | AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding | Go | 9,886 | 2026-10-18 |
 | [NicolasHug/Surprise](https://github.com/NicolasHug/Surprise) | A Python scikit for building and analyzing recommender systems | Python | 6,820 | 2026-05-30 |
 | [hongleizhang/RSPapers](https://github.com/hongleizhang/RSPapers) | RSTutorials: A Curated List of Must-read Papers on Recommender System. |  | 6,520 | 2026-03-12 |
 | [grahamjenson/list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems) | A List of Recommender Systems and Resources |  | 4,848 | 2025-12-03 |
@@ -82,11 +82,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [snowplow/snowplow](https://github.com/snowplow/snowplow) | The leader in Customer Data Infrastructure | Scala | 7,044 | 2026-10-19 |
-| [Countly/countly-server](https://github.com/Countly/countly-server) | Countly is a privacy-first, AI-powered analytics and engagement platform for understanding and optimizing customer journeys across digital a | JavaScript | 5,920 | 2026-10-21 |
-| [talivia-group/talivia](https://github.com/talivia-group/talivia) | Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue inte | TypeScript | 2,378 | 2026-09-26 |
-| [obsei/obsei](https://github.com/obsei/obsei) | Open source, privacy-first Voice of Customer analytics. A self-hosted alternative to Enterpret and Unwrap that strips PII from feedback befo | Python | 1,440 | 2026-10-17 |
-| [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | Python toolkit, MCP server, and agent skills for reproducible, auditable clickstream and event log analytics. Helps AI agents, data scientis | Python | 935 | 2026-10-19 |
-| [awslabs/aws-security-analytics-bootstrap](https://github.com/awslabs/aws-security-analytics-bootstrap) | AWS Security Analytics Bootstrap enables customers to perform security investigations on AWS service logs by providing an Amazon Athena anal |  | 283 | 2026-10-20 |
+| [Countly/countly-server](https://github.com/Countly/countly-server) | Countly is a privacy-first, AI-powered analytics and engagement platform for understanding and optimizing customer journeys across digital a | JavaScript | 5,921 | 2026-10-22 |
+| [talivia-group/talivia](https://github.com/talivia-group/talivia) | Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue inte | TypeScript | 2,379 | 2026-09-26 |
+| [obsei/obsei](https://github.com/obsei/obsei) | Open source, privacy-first Voice of Customer analytics. A self-hosted alternative to Enterpret and Unwrap that strips PII from feedback befo | Python | 1,440 | 2026-10-21 |
+| [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | Python toolkit, MCP server, and agent skills for reproducible, auditable clickstream and event log analytics. Helps AI agents, data scientis | Python | 936 | 2026-10-19 |
+| [awslabs/aws-security-analytics-bootstrap](https://github.com/awslabs/aws-security-analytics-bootstrap) | AWS Security Analytics Bootstrap enables customers to perform security investigations on AWS service logs by providing an Amazon Athena anal |  | 283 | 2026-10-21 |
 <!-- DA:END -->
 
 ## 📈 Latest data analysis projects
@@ -95,10 +95,10 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DAN:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [MahbubNibir/power-bi-retail-analytics-viz](https://github.com/MahbubNibir/power-bi-retail-analytics-viz) | Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis | HTML | 119 | 2026-10-21 |
-| [dchainapp2021/cosmetics-retail-finance-optimizer](https://github.com/dchainapp2021/cosmetics-retail-finance-optimizer) | Power BI Cosmetics Revenue Analytics Dashboard 2026: Sales Quality & Asset Performance | HTML | 117 | 2026-10-21 |
+| [MahbubNibir/power-bi-retail-analytics-viz](https://github.com/MahbubNibir/power-bi-retail-analytics-viz) | Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis | HTML | 119 | 2026-10-22 |
+| [dchainapp2021/cosmetics-retail-finance-optimizer](https://github.com/dchainapp2021/cosmetics-retail-finance-optimizer) | Power BI Cosmetics Revenue Analytics Dashboard 2026: Sales Quality & Asset Performance | HTML | 117 | 2026-10-22 |
 | [luminati-io/eCommerce-dataset-samples](https://github.com/luminati-io/eCommerce-dataset-samples) | A collection of multiple e-commerce dataset samples. Each sample contains over 1,000 records. These datasets are ideal for product trend ana |  | 90 | 2026-02-10 |
-| [coupler-io/skills](https://github.com/coupler-io/skills) | AI agent skills for marketing, sales, finance, ecommerce, PPC, and reporting analysis with live Coupler.io data. | JavaScript | 38 | 2026-10-16 |
+| [coupler-io/skills](https://github.com/coupler-io/skills) | AI agent skills for marketing, sales, finance, ecommerce, PPC, and reporting analysis with live Coupler.io data. | JavaScript | 38 | 2026-10-21 |
 | [mithra3003/ECommerce-Sales-Analysis](https://github.com/mithra3003/ECommerce-Sales-Analysis) | This project explores e-commerce sales data using Python. It focuses on identifying top products, analyzing monthly sales patterns, and unde | Python | 26 | 2026-03-30 |
 | [abhay01-kumar/warehouse-vs-retail-sales-analysis](https://github.com/abhay01-kumar/warehouse-vs-retail-sales-analysis) |  | Python | 19 | 2026-02-13 |
 <!-- DAN:END -->
